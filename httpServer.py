@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 #Will Jones
-#HTTP Server program
-#I hereby declare upon my word of honor that I have neither given nor received unauthorized help on this work.
+#HTTP Server
 import socket
 import datetime
 import sys
